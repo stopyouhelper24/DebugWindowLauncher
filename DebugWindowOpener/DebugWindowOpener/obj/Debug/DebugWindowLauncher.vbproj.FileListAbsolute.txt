@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\bin\Debug\DebugWindowLauncher.exe.config
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\bin\Debug\DebugWindowLauncher.exe
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\bin\Debug\DebugWindowLauncher.pdb
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\bin\Debug\DebugWindowLauncher.xml
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\bin\Debug\Sebs SW CV.exe
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\bin\Debug\VersionManager.dll
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.Form1.resources
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.Resources.resources
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.vbproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.vbproj.CopyComplete
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.exe
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.xml
+C:\Users\Sebastian\source\repos\DebugWindowOpener\DebugWindowOpener\obj\Debug\DebugWindowLauncher.pdb
